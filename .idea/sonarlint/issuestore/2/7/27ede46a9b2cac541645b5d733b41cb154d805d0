@@ -1,0 +1,8 @@
+
+H	php:S1068",Remove this unused "$manager" private field.(óÕ•ù8ÔöŒÿ„/
+J	php:S1172"0Remove the unused function parameter "$manager".(ÚÛöËÿÿÿÿÿ
+R	php:S1481*"1Remove this unused "$transaction" local variable.(äªßüÿÿÿÿ8Ã…‹€…/
+	php:S1186"lAdd a nested comment explaining why this method is empty, throw an Exception or complete the implementation.(ÚÛöËÿÿÿÿÿ8ÔöŒÿ„/
+M	php:S1068"1Remove this unused "$userServices" private field.(Ÿšê­8ÔöŒÿ„/
+V	php:S1172"<Remove the unused function parameter "$transactionServices".(ÚÛöËÿÿÿÿÿ
+P	php:S1481("4Remove this unused "$transactionTab" local variable.(œ™İ8Ã…‹€…/

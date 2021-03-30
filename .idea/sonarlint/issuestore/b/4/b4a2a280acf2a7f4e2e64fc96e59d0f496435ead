@@ -1,0 +1,18 @@
+
+S	php:S1481"1Remove this unused "$sentMessage" local variable.(ÍéØèıÿÿÿÿ8»úş„/
+L	php:S1172"0Remove the unused function parameter "$manager".(Ãè±Í8ù“®ş„/
+3php:S125"Remove this commented out code.(Úí·
+„	php:S1488"cImmediately return this expression instead of assigning it to the temporary variable "$codeGenere".(·¸·§ıÿÿÿÿ8´ïı„/
+p	php:S3776 "TRefactor this function to reduce its Cognitive Complexity from 39 to the 15 allowed.(”‡ š8Íá½ı„/
+J	php:S1172‘"-Remove the unused function parameter "$user".(ŸÓ©£8»úş„/
+a	php:S1126…"EReplace this "if-then-else" statement by a single "return" statement.(²õ’X8¢ğóı„/
+Y	php:S1854¢"<Remove this useless assignment to local variable '$montant'.(Ş›Äµ8Î§šş„/
+?php:S125"Remove this commented out code.(Åò¶¡úÿÿÿÿ8ù“®ş„/
+`	php:S1854£">Remove this useless assignment to local variable '$codeTrans'.(ÄëáÓøÿÿÿÿ8Î§šş„/
+N	php:S1172"2Remove the unused function parameter "$validator".(Ãè±Í8ù“®ş„/
+Y	php:S1142 "=This method has 20 returns, which is more than the 3 allowed.(”‡ š8Íá½ı„/
+O	php:S1172"3Remove the unused function parameter "$serializer".(Ãè±Í8ù“®ş„/
+K	php:S1068"/Remove this unused "$serializer" private field.(Ù¾ÚÀ8ù“®ş„/
+]	php:S1854¡"@Remove this useless assignment to local variable '$clientDepot'.(şÎ™Ó8Î§šş„/
+f	php:S1126x"EReplace this "if-then-else" statement by a single "return" statement.(óÓ®¤ûÿÿÿÿ8¢ğóı„/
+H	php:S1068",Remove this unused "$manager" private field.(óÕ•ù8ù“®ş„/
